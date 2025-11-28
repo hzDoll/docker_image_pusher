@@ -1,1 +1,1 @@
-byjg/nginx-extras:1.26
+--platform linux/amd64 openjdk:17
